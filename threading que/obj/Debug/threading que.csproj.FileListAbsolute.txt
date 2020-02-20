@@ -1,0 +1,7 @@
+d:\Users\Admin\source\repos\threading que\threading que\bin\Debug\threading que.exe.config
+d:\Users\Admin\source\repos\threading que\threading que\bin\Debug\threading que.exe
+d:\Users\Admin\source\repos\threading que\threading que\bin\Debug\threading que.pdb
+d:\Users\Admin\source\repos\threading que\threading que\obj\Debug\threading que.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\threading que\threading que\obj\Debug\threading que.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\threading que\threading que\obj\Debug\threading que.exe
+d:\Users\Admin\source\repos\threading que\threading que\obj\Debug\threading que.pdb
